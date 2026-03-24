@@ -44,7 +44,7 @@ PDF Files → Chunking → ChromaDB (Vector Store)
 
 ```bash
 # 1. Clone the repository
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/dimalu85/dl-ai-sas-rag)
 cd RAG
 
 # 2. Create and activate a virtual environment (recommended)
